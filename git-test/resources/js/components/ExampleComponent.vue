@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="row">
-      <div class="col-md-3">
+      <div class="col-md-8">
         <div class="card">
           <div class="card-header">Example Component</div>
 
