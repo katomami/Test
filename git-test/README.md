@@ -78,3 +78,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 コンフリクト２
 コンフリクト１
 コンフリクト３
+コンフリクト４
